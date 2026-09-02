@@ -1,6 +1,6 @@
 # dsa-forge
 
-## Started watching [70 Leetcode problems in 5+ hours](https://youtu.be/lvO88XxNAzs?si=l6eQEW9_QEASsg9h)
+## Started watching [70 Leetcode problems in 5+ hours](https://youtu.be/lvO88XxNAzs?si=l6eQEW9_QEASsg9h) and reading [book](https://opendatastructures.org/ods-python/1_2_Interfaces.html) on the bus
 
 September 2:
   * stopped at 09:33
