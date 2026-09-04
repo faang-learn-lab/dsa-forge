@@ -11,3 +11,6 @@ September 3:
   * Completed reading [Understanding time complexity with Python examples](https://medium.com/data-science/understanding-time-complexity-with-python-examples-2bda6e8158a7)
   * need to continue 70 Leetcode problems in 5+ hours
 
+September 4:
+  * stopped at 27:36
+  * solved 3 easy leetcode
