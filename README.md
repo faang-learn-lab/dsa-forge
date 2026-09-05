@@ -14,3 +14,9 @@ September 3:
 September 4:
   * stopped at 27:36
   * solved 3 easy leetcode
+
+September 5:
+  * stopped at 44:36
+  * solved 3 problems
+
+
